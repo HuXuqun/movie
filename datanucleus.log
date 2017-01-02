@@ -1,0 +1,124 @@
+15:54:42,116 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+15:54:42,348 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\Movie.class" with enhanced definition
+15:54:42,353 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\User.class" with enhanced definition
+15:54:42,354 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+15:55:32,928 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+15:55:33,107 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+15:55:33,108 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+15:55:33,109 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+15:56:15,537 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+15:56:15,709 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+15:56:15,711 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+15:56:15,711 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+15:57:40,508 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+15:57:40,679 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+15:57:40,680 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+15:57:40,680 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+15:57:42,482 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+15:57:42,668 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+15:57:42,670 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+15:57:42,670 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+15:58:12,186 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+15:58:12,402 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+15:58:12,404 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+15:58:12,404 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+15:58:18,167 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+15:58:18,385 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+15:58:18,387 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+15:58:18,387 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+15:58:46,679 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+15:58:46,866 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+15:58:46,867 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+15:58:46,867 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+15:59:29,540 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+15:59:29,743 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+15:59:29,747 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+15:59:29,747 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+15:59:35,749 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+15:59:35,945 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+15:59:35,947 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+15:59:35,947 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:02:54,265 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:02:54,482 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\Movie.class" with enhanced definition
+16:02:54,487 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\User.class" with enhanced definition
+16:02:54,487 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:04:41,922 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:04:42,192 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\Movie.class" with enhanced definition
+16:04:42,201 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\User.class" with enhanced definition
+16:04:42,201 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:04:45,629 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:04:45,808 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:04:45,810 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:04:45,810 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:08:45,718 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:08:45,929 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\Movie.class" with enhanced definition
+16:08:45,934 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\User.class" with enhanced definition
+16:08:45,935 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:09:30,142 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:09:30,486 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:09:30,491 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:09:30,491 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:10:34,965 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:10:35,184 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\Movie.class" with enhanced definition
+16:10:35,189 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\User.class" with enhanced definition
+16:10:35,189 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:10:57,397 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:10:57,604 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:10:57,606 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:10:57,606 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:14:08,723 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:14:08,956 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:14:08,958 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:14:08,958 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:14:50,904 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:14:51,182 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:14:51,183 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:14:51,183 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:18:26,765 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:18:26,927 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:18:26,929 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:18:26,929 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:18:33,536 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:18:33,745 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:18:33,746 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:18:33,746 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:18:58,664 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:18:58,835 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:18:58,838 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:18:58,838 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:21:54,321 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:21:54,519 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\Movie.class" with enhanced definition
+16:21:54,524 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\User.class" with enhanced definition
+16:21:54,524 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:22:53,469 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:22:53,695 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:22:53,697 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:22:53,697 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:23:55,361 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:23:55,556 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:23:55,557 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:23:55,557 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:25:32,788 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:25:32,955 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:25:32,957 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:25:32,957 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:25:43,850 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:25:44,040 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:25:44,043 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:25:44,043 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:27:45,895 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:27:46,088 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\Movie.class" with enhanced definition
+16:27:46,095 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\User.class" with enhanced definition
+16:27:46,095 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:53:58,547 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:53:58,870 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.Movie" is already enhanced.
+16:53:58,872 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.pojo.User" is already enhanced.
+16:53:58,872 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+16:57:50,161 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:57:50,358 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\Movie.class" with enhanced definition
+16:57:50,363 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\User.class" with enhanced definition
+16:57:50,364 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
+17:01:00,183 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+17:01:00,382 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\Movie.class" with enhanced definition
+17:01:00,387 (main) INFO  [DataNucleus.Enhancer] - Writing class file "F:\java练习\movieTicketRush\target\classes\lab\io\rush\pojo\User.class" with enhanced definition
+17:01:00,388 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes.
